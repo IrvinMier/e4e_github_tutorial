@@ -2,6 +2,7 @@ Section 1
 Leslie ate the cookies.
 
 Section 2
+John ate the burger.
 
 Section 3
 
